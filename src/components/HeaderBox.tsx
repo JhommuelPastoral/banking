@@ -5,6 +5,7 @@ export default function Header({type, tittle, subtext, user}: HeaderBoxProps) {
       {tittle}
       {subtext}
       {user}
+      <p>Hello world HAPPY NEW YEAR</p>
     </div>
   );
 }
